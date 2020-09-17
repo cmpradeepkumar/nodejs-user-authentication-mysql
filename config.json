@@ -1,0 +1,10 @@
+{
+    "database": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "root",
+        "password": "root",
+        "database": "user_schema"
+    },
+    "secret": "76fa8990-8fcf-4a2d-8434-bddfdbafa076"
+}
